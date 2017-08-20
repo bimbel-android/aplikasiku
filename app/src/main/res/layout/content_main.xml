@@ -19,6 +19,7 @@
         android:orientation="horizontal">
 
         <Button
+            android:layout_marginRight="6dp"
             android:id="@+id/button3"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
@@ -42,6 +43,7 @@
         android:layout_height="wrap_content">
 
         <Button
+            android:layout_marginRight="6dp"
             android:id="@+id/button"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
